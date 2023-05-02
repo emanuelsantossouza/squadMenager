@@ -1,0 +1,9 @@
+Como criar um projeto MVC
+
+1- Crie um novo projeto MVC
+
+2- Inicie criando uma nova models 
+2.1 - crie as proprie dades dessa models
+
+3- crie uma view e import os dados da models cria anteriormente 
+3.1 crie o html que sera exibido
